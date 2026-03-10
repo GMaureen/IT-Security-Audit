@@ -3,6 +3,7 @@
 # IT Security Audit Report – Defense Against the Digital Dark Arts
 
 **Course:** IT Security – Defense Against the Digital Dark Arts
+
 **Student:** Galaletsang Maureen Mokgele
 
 
