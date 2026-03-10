@@ -30,7 +30,8 @@ Screenshots are included as evidence of the checks.
 - **Recommendation:** Always use **unique and complex passwords** for all accounts.
 
 **Screenshot Evidence:**
-![Password Strength](screenshots/1_Password_Strength.png)
+<img width="459" height="571" alt="1_Password_Strength" src="https://github.com/user-attachments/assets/158b9829-c00a-4bbb-ae0d-106362c24fb7" />
+
 
 ---
 
@@ -40,7 +41,8 @@ Screenshots are included as evidence of the checks.
 - **Recommendation:** Keep the firewall **enabled at all times** to protect against unauthorized access.
 
 **Screenshot Evidence:**
-![Firewall Status](screenshots/2_Firewall_Status.png)
+<img width="674" height="462" alt="2_Firewall_Status" src="https://github.com/user-attachments/assets/e293f31e-9a12-48c7-8b6e-7b6458febe2d" />
+
 
 ---
 
@@ -50,7 +52,8 @@ Screenshots are included as evidence of the checks.
 - **Recommendation:** Upgrade to a **supported Windows version** to continue receiving updates and security patches.
 
 **Screenshot Evidence:**
-![Software Updates](screenshots/3_Software_Updates.png)
+<img width="769" height="372" alt="3_Software_Updates" src="https://github.com/user-attachments/assets/0e25f8cf-3d22-4dec-bbca-dbbe51ec3c2d" />
+
 
 ---
 
