@@ -2,8 +2,8 @@
 
 # IT Security Audit Report – Defense Against the Digital Dark Arts
 **Course:** IT Security – Defense Against the Digital Dark Arts
+---
 **Student:** Galaletsang Maureen Mokgele
-**Submission Date:** 13 February 2026
 
 ---
 
